@@ -1,12 +1,24 @@
 body {
-    background-color: #FFFBE9;
+    background-color: #E0C097;
 }
 
-hr 
-{
+h1  {    
+    color: #5C3D2E;
+}
+
+h3{
+    color: #2D2424;
+}
+
+p  {
+    color: #000000;
+}
+
+hr  {
     border-style: none;
     border-top-style: dotted;
-    border-color: #AD8B73;
+    border-color: #B85C38;
     border-width: 6px;
     width: 11%;
 }
+
